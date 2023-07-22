@@ -1,3 +1,6 @@
+
+#http://127.0.0.1:3000/api/stock?ticker=KO
+
 import json
 
 from flask import Flask, Response, request
