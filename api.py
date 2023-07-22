@@ -1,7 +1,7 @@
 import json
 
 from flask import Flask, Response, request
-from utils import get_last_price
+from util import get_last_price
 
 app = Flask(__name__)
 
